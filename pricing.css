@@ -1,0 +1,50 @@
+
+.nav{
+    background-image: url(https://imgs.search.brave.com/8nhPgKIRMyRd_SzMb4CbAEoK8vi6SjC_9BPmOCdsi8s/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tL3Bob3RvLTE1/Nzc4MDc0ODYwMjEt/ZWY1MDA3MzQxNmNm/P2l4bGliPXJiLTQu/MC4zJml4aWQ9TTN3/eE1qQTNmREI4TUh4/bGVIQnNiM0psTFda/bFpXUjhObng4ZkdW/dWZEQjhmSHg4ZkE9/PSZ3PTEwMDAmcT04/MA) ;
+}
+.home{
+    width:25px;
+    height:25px
+}
+table{
+    margin-left: 200px;
+}
+table,tr,td{
+    border: 30px solid rgb(133, 140, 98);
+    text-align: center;
+
+
+}
+.logo{
+    width: 100px; ;
+    height: 100px;
+    padding-left: 655px;
+  }
+figcaption{
+    color:azure
+}
+ .capt{
+    margin-left: 675px;
+ }
+ .av{
+    margin-top: 100px;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    height: 400px;
+ }
+.abc{
+    background-color: black;
+    width: 350px;
+    height: 300px;
+    
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+.backgnd{
+    background-color: black;
+    font-size: 20px;
+    color:blanchedalmond
+}
